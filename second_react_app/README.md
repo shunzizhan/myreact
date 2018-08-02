@@ -207,4 +207,4 @@ but不推荐这样使用，原因：
 
 [码云地址](https://gitee.com/shunzizhan/myreact/second_react_app)
 
-[React学习交流群](https://images.gitee.com/uploads/images/2018/0802/105745_58970a9c_375548.png)
+![image](https://images.gitee.com/uploads/images/2018/0802/105745_58970a9c_375548.png)
