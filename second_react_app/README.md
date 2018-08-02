@@ -204,3 +204,7 @@ but不推荐这样使用，原因：
 全局状态就是唯一可靠的数据源，为了避免这个问题，下一章将探讨Store
 
 [github地址](https://github.com/shunzizhan/myreact/second_react_app)
+
+[码云地址](https://gitee.com/shunzizhan/myreact/second_react_app)
+
+[React学习交流群](https://images.gitee.com/uploads/images/2018/0802/105745_58970a9c_375548.png)
