@@ -1,3 +1,4 @@
+
 ## 第一章 React新的前端思维
 ### 环境配置
 ```bash
@@ -92,3 +93,12 @@ import App from './ClickCounter'; //正常执行
 ## 查看config文件
 - 所有的配置都隐藏在node_modules/react-scripts
 - `npm run eject`将技术站配置都弹射到顶层，增加scripts config文件夹 package.json文件也会发生改变
+- 执行 `npm i`
+- 执行 `npm run start`
+
+## React 理念
+- 对比，做出最少的改动
+- UI = render(data)
+- 响应式编程 reactive programming  
+
+![图解](https://user-images.githubusercontent.com/7811369/43500301-6c7df62c-9582-11e8-89a0-d19ccdedaa8f.jpg)
